@@ -46,6 +46,7 @@ h2{
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
   line-height:1em;
+    float: right;
 }
 .elixiers h2 {
   color: black
@@ -53,4 +54,29 @@ h2{
 .elixirs h3 {
   color: #d12c47
 }
-
+.cd{
+  font-style:italic;
+}
+.artist{
+  font-weight: bold;
+}
+.elixirs a:link {
+  color:#007e7e;
+}
+.elixirs a:visited {
+  color: #333333;
+}
+.elixires a:hover {
+  background: #f88396;
+  color: #0d5353;
+}
+.directions a:link {
+  color:#007e7e;
+}
+.directions a:visited {
+  color: #333333;
+}
+.directions a:hover {
+  background: #f88396;
+  color: #0d5353;
+}
